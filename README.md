@@ -1,4 +1,4 @@
-<img align="left" width="500" src="https://file.garden/agiJ73V3JAahZNUJ/mindflayer">
+<img align="left" width="400" src="https://file.garden/agiJ73V3JAahZNUJ/mindflayer">
 </br>
 </br>
 <img width="250px" src="https://file.garden/agiJ73V3JAahZNUJ/script" />
