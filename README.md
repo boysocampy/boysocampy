@@ -3,7 +3,7 @@
 </br>
 <img width="250px" src="https://file.garden/agiJ73V3JAahZNUJ/script" />
  
-my links　[about me](https://fluffle.cc/campy)　[新book](https://campy.atabook.org/)
+<p align="center">my links　<a href="https://fluffle.cc/campy">about me</a>　<a href="https://campy.atabook.org/">新book</a><p>
 
 </br>
 
